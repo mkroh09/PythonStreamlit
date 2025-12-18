@@ -17,3 +17,4 @@ st.write(df)
 # https://share.streamlit.io/ # 배포하는 사이트(github 연동해놓음)
 # https://appdemo-w3bqqpronqrhifshxtcfad.streamlit.app/
 # 2025-12-18 github-pych connect
+# 푸시하고 리베이스 차이가 뭐야?... 2025-12-18
