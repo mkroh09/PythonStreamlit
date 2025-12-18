@@ -16,3 +16,4 @@ st.write(df)
 # 생성된 링크
 # https://share.streamlit.io/ # 배포하는 사이트(github 연동해놓음)
 # https://appdemo-w3bqqpronqrhifshxtcfad.streamlit.app/
+# 2025-12-18 github-pych connect
